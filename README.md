@@ -2,7 +2,7 @@
 
 CinePeek is a modern, responsive movie discovery app built with **React**, **Tailwind CSS**, and the **TMDB API**. It allows users to explore trending, upcoming, and top-rated movies, search for specific titles, and view detailed information including trailers, cast, and metadata — all in a sleek, cinematic UI.
 
-![CinePeek Live View](https://cinepeek.vercel.app/)
+👉[CinePeek Live View](https://cinepeek.vercel.app/)
 
 <!-- ![CinePeek Live View](./public/preview.png)  -->
 
