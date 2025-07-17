@@ -45,11 +45,9 @@ npm run dev
 
 ## 🔑 Getting Your TMDB API Key
 
-Sign up at https://www.themoviedb.org.
-
-Go to your API settings and generate an API key.
-
-Create a .env.local file in the root directory and add:
+- Sign up at https://www.themoviedb.org.
+- Go to your API settings and generate an API key.
+- Create a .env.local file in the root directory and add:
 
 ```bash
 VITE_TMDB_API_KEY=your_tmdb_api_key_here
